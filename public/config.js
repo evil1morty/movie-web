@@ -1,5 +1,5 @@
 window.__CONFIG__ = {
   // url must NOT end with a slash
-  VITE_CORS_PROXY_URL: "",
-  VITE_TMDB_READ_API_KEY: ""
+  VITE_CORS_PROXY_URL: "https://proxy.123moviesok.com",
+  VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1YzFjYzUzZmRlYjNhZjg0ZjY4NWQwOTYwNjI2Y2ExOSIsInN1YiI6IjY1NWEwOGIzZDRmZTA0MDBjNDI0NTRlMyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.DWQOB0Noz_HY5CLPQw6QaL72IsBX8KmfGQw6rn8-0m8"
 };
